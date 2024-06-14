@@ -58,11 +58,7 @@
   </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Dishita533/Dishita533/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">To view My Resume - https://drive.google.com/file/d/1y4-gh33HZ9kSnhU_rHolItk82xG4BqJl/view?usp=drive_link</p>
+<p align="left">My Website - https://dishita533.github.io/dishita.github.io/</p>
+<p align="left">My Resume - https://drive.google.com/file/d/1y4-gh33HZ9kSnhU_rHolItk82xG4BqJl/view?usp=drive_link</p>
 
