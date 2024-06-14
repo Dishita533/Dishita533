@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Dishita and I'm a Computer Science Engineer, from India</h1>
+<h1 align="center">Hi 👋! My name is Dishita from India</h1>
 
 ###
 
